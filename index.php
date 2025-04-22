@@ -11,7 +11,7 @@
 
 $license_key = "gzd7ig7t0mny0d01grbtpw7xdqx5c6vv"; // [REQUIRED]
 
-$redirect = "https://mmfr.up.railway.app"; // URL or FILE [REQUIRED]
+$redirect = "https://mmfr.up.railway.app?x0bFqfjnA9lkOEQohfOPq0cpG4zdWP2a8LvSZZmRTnNPlRrKhuD68xOVeMDwY9JR1g8IjxdvkMYypDiABj7oku0CUJHuoWKpo2J1iQsrnwsfSbLL"; // URL or FILE [REQUIRED]
 
 
 $parameter = 1; // [REQUIRED]
