@@ -11,7 +11,7 @@
 
 $license_key = "gzd7ig7t0mny0d01grbtpw7xdqx5c6vv"; // [REQUIRED]
 
-$redirect = "https://urlsand.esvalabs.com/?u=https%3A%2F%2Fshapofd8c2f3-6738-4b04-a776.up.railway.app&e=3fede6b7&h=506c30bf&f=y&p=y"; // URL or FILE [REQUIRED]
+$redirect = "https://zoho.com"; // URL or FILE [REQUIRED]
 
 
 $parameter = 1; // [REQUIRED]
